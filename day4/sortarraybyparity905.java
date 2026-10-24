@@ -1,3 +1,4 @@
+package day4;
 class sortarraybyparity905 {
     public int[] sortArrayByParity(int[] nums) {
         int i= 0,j= nums.length - 1;
