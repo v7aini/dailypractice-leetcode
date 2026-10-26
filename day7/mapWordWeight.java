@@ -1,6 +1,6 @@
 package day7;
 
-public class Solution {
+public class mapWordWeight {
     public String mapWordWeights(String[] words, int[] weights) {
         StringBuilder ans= new StringBuilder();
         for(String word:words){
