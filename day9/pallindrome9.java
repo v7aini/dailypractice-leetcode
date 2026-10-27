@@ -1,6 +1,9 @@
 package day9;
-
-class Solution {
+class pallindrome9 {
+    public static void main(String[] args) {
+        pallindrome9 p = new pallindrome9();
+        System.out.println(p.isPalindrome(121));
+    }
     public boolean isPalindrome(int x) {
         if(x<0){
             return false;
