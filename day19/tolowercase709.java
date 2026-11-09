@@ -1,5 +1,5 @@
 package day19;
-
+/*  
 public class tolowercase709 {
     
 }
@@ -15,5 +15,11 @@ class Solution {
         }
        } 
        return result;
+    }
+} 
+    */
+   class Solution {
+    public String toLowerCase(String s) {
+        return s.toLowerCase();
     }
 }
